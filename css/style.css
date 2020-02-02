@@ -35,8 +35,8 @@ h4,
 h5,
 h6,
 .font-heading {
-  font-family: "Poppins", sans-serif;
-  color: #000;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
 }
 
 .container {
@@ -703,6 +703,7 @@ figure figcaption {
   font-weight: 700;
   margin-bottom: 30px;
 }
+
 
 .hero-section p {
   font-size: 18px;
