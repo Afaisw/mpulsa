@@ -1092,7 +1092,7 @@ figure figcaption {
   width: 100%;
   height: 2px;
   display: block;
-  background: #fff;
+  background: #000;
   border-radius: 2px;
   position: absolute;
   opacity: 1;
