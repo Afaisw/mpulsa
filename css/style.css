@@ -367,7 +367,7 @@ figure figcaption {
 .sticky-wrapper .site-navbar .site-menu > li > a:hover,
 .sticky-wrapper .site-navbar .site-menu > li > a.active {
   color: #000000 !important;
-  text-shadow: 0 15px 50px 0 rgba(0, 0, 0, 0.3);
+  text-shadow: 4px 0 rgba(45, 113, 161, 0.3);
 }
 
 .sticky-wrapper.is-sticky .burger:before,
