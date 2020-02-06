@@ -682,7 +682,7 @@ figure figcaption {
 .hero-section,
 .hero-section > .container > .row {
   height: 100vh;
-  min-height: 880px;
+  min-height: 700px;
 }
 
 .hero-section.inner-page {
@@ -1245,12 +1245,10 @@ figure figcaption {
   }
   
   .hero-section .hero-text-image .iphone-wrap .phone-1{
-    max-width: 50%;
     height: 50%;
   }
 
   .hero-section .hero-text-image .iphone-wrap .phone-2{
-    max-width: 50%;
     height: 50%;
   }
 
