@@ -683,7 +683,7 @@ figure figcaption {
 .hero-section,
 .hero-section > .container > .row {
   height: 100vh;
-  min-height: 840px;
+  min-height: 750px;
 }
 
 .hero-section.inner-page {
@@ -712,7 +712,6 @@ figure figcaption {
 
 .hero-section .iphone-wrap {
   position: relative;
-  top: -150px;
 }
 
 .hero-section .iphone-wrap .phone-2,
@@ -1246,8 +1245,8 @@ figure figcaption {
   }
   
   .hero-section .hero-text-image .iphone-wrap .phone-1{
-    max-width: 37%;
-    height: 67%;
+    height: 350px;
+    width: 200px;
   }
 
   .hero-section .hero-text-image .iphone-wrap .phone-2{
@@ -1267,7 +1266,7 @@ figure figcaption {
   }
 
   .hero-section .iphone-wrap .phone-1 {
-    margin-left: -150px;
+    margin-left: 0;
   }
 
   .hero-section .iphone-wrap .phone-2 {
