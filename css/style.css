@@ -682,7 +682,7 @@ figure figcaption {
 .hero-section,
 .hero-section > .container > .row {
   height: 100vh;
-  min-height: 1100px;
+  min-height: 880px;
 }
 
 .hero-section.inner-page {
@@ -1237,6 +1237,13 @@ figure figcaption {
     text-align: left;
   }
 
+  .hero-section .hero-text-image .btn{
+    width: 100px;
+    height: 36px;
+    font-size: x-small;
+    padding: 10px 5px !important;
+  }
+  
   .hero-section .iphone-wrap {
     text-align: center;
   }
