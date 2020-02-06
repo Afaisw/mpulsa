@@ -367,7 +367,6 @@ figure figcaption {
 .sticky-wrapper .site-navbar .site-menu > li > a:hover,
 .sticky-wrapper .site-navbar .site-menu > li > a.active {
   color: #0ced72 !important;
-  text-shadow: 4px 0 rgba(45, 113, 161, 0.3);
 }
 
 .sticky-wrapper.is-sticky .burger:before,
@@ -677,7 +676,7 @@ figure figcaption {
 }
 
 .hero-section .wave svg {
-  width: 100%;
+  width: 400px;
 }
 
 .hero-section,
@@ -720,7 +719,6 @@ figure figcaption {
   overflow: hidden;
   top: -25%;
   left: 0;
-  box-shadow: 0 15px 50px 0 rgba(0, 0, 0, 0.3);
   border-radius: 30px;
 }
 
@@ -1234,25 +1232,25 @@ figure figcaption {
   }
 
   .hero-section .hero-text-image .aos-init{
-    font-size: larger;
+    font-size: xx-large;
     text-align: left;
   }
 
   .hero-section .hero-text-image .btn{
     width: 100px;
     height: 36px;
-    font-size: x-small;
-    padding: 10px 5px !important;
+    font-size: initial;
+    padding: 7px 20px !important;
   }
   
   .hero-section .hero-text-image .iphone-wrap .phone-1{
-    height: 355px;
-    width: 195px;
+    height: 350px;
+    width: 340px;
   }
 
   .hero-section .hero-text-image .iphone-wrap .phone-2{
-    height: 355px;
-    width: 195px;
+    height: 350px;
+    width: 340px;
   }
 
   .hero-section .iphone-wrap {
