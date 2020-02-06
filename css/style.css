@@ -1244,6 +1244,16 @@ figure figcaption {
     padding: 10px 5px !important;
   }
   
+  .hero-section .hero-text-image .iphone-wrap .phone-1{
+    max-width: 50%;
+    height: 50%;
+  }
+
+  .hero-section .hero-text-image .iphone-wrap .phone-2{
+    max-width: 50%;
+    height: 50%;
+  }
+
   .hero-section .iphone-wrap {
     text-align: center;
   }
