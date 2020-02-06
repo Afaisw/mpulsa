@@ -683,7 +683,7 @@ figure figcaption {
 .hero-section,
 .hero-section > .container > .row {
   height: 100vh;
-  min-height: 750px;
+  min-height: 720px;
 }
 
 .hero-section.inner-page {
