@@ -366,7 +366,7 @@ figure figcaption {
 
 .sticky-wrapper .site-navbar .site-menu > li > a:hover,
 .sticky-wrapper .site-navbar .site-menu > li > a.active {
-  color: #fff !important;
+  color: #000000 !important;
 }
 
 .sticky-wrapper.is-sticky .burger:before,
@@ -1230,6 +1230,11 @@ figure figcaption {
 
   .hero-section .hero-text-image {
     margin-top: 4rem;
+  }
+
+  .hero-section .hero-text-image .aos-init{
+    font-size: larger;
+    text-align: left;
   }
 
   .hero-section .iphone-wrap {
