@@ -366,7 +366,7 @@ figure figcaption {
 
 .sticky-wrapper .site-navbar .site-menu > li > a:hover,
 .sticky-wrapper .site-navbar .site-menu > li > a.active {
-  color: #000000 !important;
+  color: #0ced72 !important;
   text-shadow: 4px 0 rgba(45, 113, 161, 0.3);
 }
 
