@@ -361,12 +361,13 @@ figure figcaption {
 }
 
 .sticky-wrapper .site-navbar .site-menu > li > a {
-  color: rgba(255, 255, 255, 0.8) !important;
+  color: #000 !important;
 }
 
 .sticky-wrapper .site-navbar .site-menu > li > a:hover,
 .sticky-wrapper .site-navbar .site-menu > li > a.active {
   color: #000000 !important;
+  box-shadow: 0 15px 50px 0 rgba(0, 0, 0, 0.3);
 }
 
 .sticky-wrapper.is-sticky .burger:before,
@@ -716,7 +717,6 @@ figure figcaption {
 .hero-section .iphone-wrap .phone-2,
 .hero-section .iphone-wrap .phone-1 {
   position: absolute;
-  top: -50%;
   overflow: hidden;
   left: 0;
   box-shadow: 0 15px 50px 0 rgba(0, 0, 0, 0.3);
@@ -784,7 +784,7 @@ figure figcaption {
 }
 
 .site-navbar .site-navigation .site-menu > li.active > a {
-  color: #fff !important;
+  color: #000 !important;
 }
 
 .site-navbar .site-navigation .site-menu .has-children {
