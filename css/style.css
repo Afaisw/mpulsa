@@ -1250,8 +1250,8 @@ figure figcaption {
   }
 
   .hero-section .hero-text-image .iphone-wrap .phone-2{
-    max-width: 37%;
-    height: 67%;
+    height: 350px;
+    width: 200px;
   }
 
   .hero-section .iphone-wrap {
