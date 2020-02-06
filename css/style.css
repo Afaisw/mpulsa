@@ -367,7 +367,7 @@ figure figcaption {
 .sticky-wrapper .site-navbar .site-menu > li > a:hover,
 .sticky-wrapper .site-navbar .site-menu > li > a.active {
   color: #000000 !important;
-  box-shadow: 0 15px 50px 0 rgba(0, 0, 0, 0.3);
+  text-shadow: 0 15px 50px 0 rgba(0, 0, 0, 0.3);
 }
 
 .sticky-wrapper.is-sticky .burger:before,
@@ -683,7 +683,7 @@ figure figcaption {
 .hero-section,
 .hero-section > .container > .row {
   height: 100vh;
-  min-height: 700px;
+  min-height: 840px;
 }
 
 .hero-section.inner-page {
@@ -1245,11 +1245,11 @@ figure figcaption {
   }
   
   .hero-section .hero-text-image .iphone-wrap .phone-1{
-    height: 50%;
+    height: 70%;
   }
 
   .hero-section .hero-text-image .iphone-wrap .phone-2{
-    height: 50%;
+    height: 70%;
   }
 
   .hero-section .iphone-wrap {
