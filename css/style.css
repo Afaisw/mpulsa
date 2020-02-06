@@ -712,6 +712,7 @@ figure figcaption {
 
 .hero-section .iphone-wrap {
   position: relative;
+  top: -50px;
 }
 
 .hero-section .iphone-wrap .phone-2,
@@ -1245,11 +1246,13 @@ figure figcaption {
   }
   
   .hero-section .hero-text-image .iphone-wrap .phone-1{
-    height: 70%;
+    max-width: 37%;
+    height: 67%;
   }
 
   .hero-section .hero-text-image .iphone-wrap .phone-2{
-    height: 70%;
+    max-width: 37%;
+    height: 67%;
   }
 
   .hero-section .iphone-wrap {
