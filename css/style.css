@@ -77,7 +77,7 @@ figure figcaption {
 
 .pb-1{
   background: #81c3f3;
-  padding-top: 50px !important;
+  padding-top: 100px !important;
   padding-bottom: 100px !important;
 }
 
@@ -85,8 +85,7 @@ figure figcaption {
   font-size: xx-large;
   font-weight: 700;
   background: linear-gradient(linear-gradient(-53deg, #3dc54e, #274685));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+ -webkit-text-fill-color: transparent;
 }
 
 /* Back to top button */
@@ -172,7 +171,7 @@ figure figcaption {
 }
 
 .feature-1 p {
-  color: white;
+  color: black;
 }
 
 /* Step */
