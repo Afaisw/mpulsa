@@ -77,15 +77,16 @@ figure figcaption {
 
 .pb-1{
   background: #81c3f3;
-  padding-top: 100px !important;
+  padding-top: 1000px !important;
   padding-bottom: 100px !important;
 }
 
 .section-heading {
   font-size: xx-large;
   font-weight: 700;
-  background: linear-gradient(linear-gradient(-53deg, #3dc54e, #274685));
- -webkit-text-fill-color: transparent;
+  background: black;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /* Back to top button */
