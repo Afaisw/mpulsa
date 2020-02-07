@@ -71,9 +71,9 @@ figure figcaption {
 }
 
 .section-heading {
-  font-size: 3rem;
+  font-size: xx-large;
   font-weight: 700;
-  background: linear-gradient(-45deg, #3db3c5, #274685);
+  background: linear-gradient(linear-gradient(-53deg, #3dc54e, #274685));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -124,6 +124,7 @@ figure figcaption {
 
 .btn.btn-primary {
   background: #2d71a1;
+  border-radius:30px;
   background: linear-gradient(-45deg, #1391a5, #274685);
   color: #fff;
   box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
@@ -724,7 +725,7 @@ figure figcaption {
 
 .hero-section .iphone-wrap .phone-2,
 .hero-section .iphone-wrap .phone-1 {
-  width: 250px;
+  width: 420px;
 }
 
 .hero-section .iphone-wrap .phone-2 {
@@ -1232,15 +1233,14 @@ figure figcaption {
   }
 
   .hero-section .hero-text-image .aos-init{
-    font-size: xx-large;
+    font-size: x-large;
     text-align: left;
   }
 
   .hero-section .hero-text-image .btn{
-    width: 100px;
-    height: 36px;
     font-size: initial;
     padding: 7px 20px !important;
+    border-radius:30px;
   }
   
   .hero-section .hero-text-image .iphone-wrap .phone-1{
