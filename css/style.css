@@ -75,6 +75,12 @@ figure figcaption {
   padding-bottom: 100px !important;
 }
 
+.pb-1{
+  background: #81c3f3;
+  padding-top: 100px !important;
+  padding-bottom: 100px !important;
+}
+
 .section-heading {
   font-size: xx-large;
   font-weight: 700;
