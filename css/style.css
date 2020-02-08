@@ -50,6 +50,11 @@ h6,
   color: #000 !important;
 }
 
+.text-white {
+  color: #fff !important;
+  font-weight: 600;
+}
+
 .text-primary {
   color: #2d71a1 !important;
 }
@@ -94,6 +99,14 @@ figure figcaption {
   font-size: larger;
   font-weight: 700;
   background: linear-gradient(-45deg, #1391a5, #26be6b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.section-heading-2 {
+  font-size: larger;
+  font-weight: 700;
+  background: white;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -691,6 +704,10 @@ figure figcaption {
 .wave3{
   background: #fff;
   margin-bottom: -80px;
+}
+
+.wave4{
+  background: #81c3f3;
 }
 
 .hero-section {
