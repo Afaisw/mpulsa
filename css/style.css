@@ -1237,6 +1237,12 @@ figure figcaption {
     bottom: -180px;
   }
 
+  
+  .review .review-user img {
+    width: 50%;
+    margin: 0 auto;
+  }
+
   .hero-section.inner-page .hero-text {
     margin-top: -80px;
   }
@@ -1292,11 +1298,6 @@ figure figcaption {
     position: absolute;
     margin-top: 0px;
     margin-left: 100px;
-  }
-
-  .review .review-user img {
-    width: 50%;
-    margin: 0 auto;
   }
 }
 
