@@ -1267,7 +1267,9 @@ figure figcaption {
   .hero-section .wave {
     bottom: -180px;
   }
-
+  .pb-1{
+    margin-top: 0 !important;
+  }
   .pb-2{
     margin-top: 1px;
   }
