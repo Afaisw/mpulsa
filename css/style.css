@@ -1266,6 +1266,10 @@ figure figcaption {
     bottom: -180px;
   }
 
+  .pb-2{
+    margin-top: 1px;
+  }
+
   .review .review-user img {
     width: 50%;
     height: 400px;
