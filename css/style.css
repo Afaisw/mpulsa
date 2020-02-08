@@ -85,7 +85,7 @@ figure figcaption {
 }
 
 .pb-2{
-  background:linear-gradient(180deg, #81c3f3 0%, #4a90e2 100%)
+  background: #81c3f3;
 }
 
 .section-heading {
@@ -683,6 +683,11 @@ figure figcaption {
 --------------------------------------------------------------*/
 .wave2{
   background: #eff3f6;
+  margin-bottom: -80px;
+}
+
+.wave3{
+  background: #fff;
   margin-bottom: -80px;
 }
 
