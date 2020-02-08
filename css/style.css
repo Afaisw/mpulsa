@@ -1293,6 +1293,11 @@ figure figcaption {
     margin-top: 0px;
     margin-left: 100px;
   }
+
+  .review .review-user img {
+    width: 50%;
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: 768px) {
