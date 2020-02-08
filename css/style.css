@@ -102,6 +102,7 @@ figure figcaption {
   background: linear-gradient(-45deg, #1391a5, #26be6b);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  margin-top:-50px;
 }
 
 .section-heading-2 {
