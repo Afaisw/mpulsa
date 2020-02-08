@@ -93,6 +93,7 @@ figure figcaption {
   background: #81c3f3;
   margin-top: -150px;
   padding-bottom: 150px !important;
+  margin-bottom: -1px;
 }
 
 .section-heading {
