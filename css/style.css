@@ -84,7 +84,7 @@ figure figcaption {
 } */
 
 .section-heading {
-  font-size: xx-large;
+  font-size: larger;
   font-weight: 700;
   background: linear-gradient(-45deg, #1391a5, #26be6b);
   -webkit-background-clip: text;
@@ -678,7 +678,6 @@ figure figcaption {
 .wave2{
   background: #eff3f6;
   margin-bottom: -80px;
-  height: 150px;
 }
 
 .hero-section {
@@ -1259,6 +1258,7 @@ figure figcaption {
     font-size: initial;
     padding: 7px 20px !important;
     border-radius:30px;
+    margin-top: -50px;
   }
   
   .hero-section .hero-text-image .iphone-wrap .phone-1{
