@@ -362,7 +362,7 @@ figure figcaption {
 /* CTA Section */
 
 .cta-section {
-  background: linear-gradient(to right, #274685 0%, #3db3c5 100%);
+  background:  #274685;
   color: #fff;
 }
 
@@ -710,6 +710,9 @@ figure figcaption {
 
 .wave4{
   background: #81c3f3;
+}
+.wave5{
+  background: #fff;
 }
 
 .hero-section {
@@ -1269,6 +1272,8 @@ figure figcaption {
   }
   .ft{
     opacity: 0;
+    width: 0;
+    height: 0;
   }
   .align-items-center-2{
     align-items: center!important;
