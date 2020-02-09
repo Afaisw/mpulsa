@@ -1267,6 +1267,13 @@ figure figcaption {
   .hero-section .wave {
     bottom: -180px;
   }
+  .ft{
+    opacity: 0;
+  }
+  .align-item-center-2{
+    align-items: center!important;
+    margin-top: -450px;
+  }
   .pb-1{
     margin-top: 0 !important;
   }
