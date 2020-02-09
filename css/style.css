@@ -1272,10 +1272,12 @@ figure figcaption {
   }
   .ft{
     opacity: 0;
+    height: 0;
+    width: 0;
   }
   .align-items-center-2{
     align-items: center!important;
-    margin-top: -450px;
+    /*margin-top: -450px; */
   }
   .pb-1{
     margin-top: 0 !important;
