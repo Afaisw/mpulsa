@@ -1270,15 +1270,7 @@ figure figcaption {
   .hero-section .wave {
     bottom: -180px;
   }
-  .ft{
-    opacity: 0;
-    height: 0;
-    width: 0;
-  }
-  .align-items-center-2{
-    align-items: center!important;
-    /*margin-top: -450px; */
-  }
+  
   .pb-1{
     margin-top: 0 !important;
   }
@@ -1359,5 +1351,14 @@ figure figcaption {
 @media screen and (max-width: 768px) {
   .cta-section h2 {
     font-size: 2rem;
+  }
+  .ft{
+    opacity: 0;
+    height: 0;
+    width: 0;
+  }
+  .align-items-center-2{
+    align-items: center!important;
+    margin-top: -120px;
   }
 }
