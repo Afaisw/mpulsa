@@ -364,6 +364,7 @@ figure figcaption {
 .cta-section {
   background:  #274685;
   color: #fff;
+  padding-bottom: 50px !important;
 }
 
 .cta-section h2 {
@@ -713,6 +714,7 @@ figure figcaption {
 }
 .wave5{
   background: #fff;
+  height: 50px;
 }
 
 .hero-section {
